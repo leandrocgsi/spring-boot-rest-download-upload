@@ -13,6 +13,6 @@ The following Open Source projects are used in this sample app:
 * [Apache POI](https://poi.apache.org/)
 * [Orika Mapper](http://orika-mapper.github.io/orika-docs/converters.html)
 * [Hibernate](http://hibernate.org/)
-* [X-Stream](http://x-stream.github.io/)
+* [Jackson](http://wiki.fasterxml.com/JacksonHome)
 * [Travis CI](https://travis-ci.org/)
 * [Flyway](https://flywaydb.org/)
