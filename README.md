@@ -8,7 +8,6 @@ The following Open Source projects are used in this sample app:
 * [Spring MVC](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html)
 * [Spring Data JPA](http://projects.spring.io/spring-data-jpa/)
 * [Swagger](http://swagger.io/) see more [here](http://jakubstas.com/spring-jersey-swagger-create-documentation/) and [here](http://jakubstas.com/spring-jersey-swagger-exposing-documentation/)
-* [Groovy](http://www.groovy-lang.org/)
 * [Jasper Reports](http://community.jaspersoft.com/)
 * [Open CSV](http://opencsv.sourceforge.net/)
 * [Apache POI](https://poi.apache.org/)
