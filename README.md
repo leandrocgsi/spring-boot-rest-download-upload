@@ -1,5 +1,7 @@
 # Download and Upload in Spring Boot REST Application
 
+[![Build Status](https://travis-ci.org/leandrocgsi/spring-boot-rest-download-upload.svg?branch=master)](https://travis-ci.org/leandrocgsi/spring-boot-rest-download-upload)
+
 # Open Source Projects Used
 
 The following Open Source projects are used in this sample app:
