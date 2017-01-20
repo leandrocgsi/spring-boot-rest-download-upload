@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/leandrocgsi/spring-boot-rest-download-upload.svg?branch=master)](https://travis-ci.org/leandrocgsi/spring-boot-rest-download-upload)
 [![Build Status](https://circleci.com/gh/leandrocgsi/spring-boot-rest-download-upload.svg?&style=shield)](https://circleci.com/gh/leandrocgsi/spring-boot-rest-download-upload/)
+[![License](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?maxAge=2592000)](https://github.com/leandrocgsi/spring-boot-rest-download-upload/blob/master/LICENSE.txt)
 
 
 # Open Source Projects Used
