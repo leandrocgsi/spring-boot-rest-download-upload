@@ -19,5 +19,6 @@ The following Open Source projects are used in this sample app:
 * [Orika Mapper](http://orika-mapper.github.io/orika-docs/converters.html)
 * [Hibernate](http://hibernate.org/)
 * [Jackson](http://wiki.fasterxml.com/JacksonHome)
+* [Circle CI](https://circleci.com/)
 * [Travis CI](https://travis-ci.org/)
 * [Flyway](https://flywaydb.org/)
