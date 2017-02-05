@@ -21,3 +21,12 @@ The following Open Source projects are used in this sample app:
 * [Circle CI](https://circleci.com/)
 * [Travis CI](https://travis-ci.org/)
 * [Flyway](https://flywaydb.org/)
+
+# How to get this project
+
+You can execute following command or as you prefer [download zip here](https://github.com/leandrocgsi/spring-boot-rest-download-upload/archive/master.zip) and import in your favourite IDE.
+
+```sh
+git clone https://github.com/leandrocgsi/spring-boot-rest-download-upload.git
+```
+
