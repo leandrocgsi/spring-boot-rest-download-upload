@@ -24,7 +24,7 @@ The following Open Source projects are used in this sample app:
 
 # How to get this project
 
-To get this code you can execute following command or as you prefer [download zip here](https://github.com/leandrocgsi/spring-boot-rest-download-upload/archive/master.zip) and import in your favourite IDE.
+To get this code you can execute following command or, as you prefer [download zip here](https://github.com/leandrocgsi/spring-boot-rest-download-upload/archive/master.zip) and import in your favourite IDE.
 
 ```sh
 git clone https://github.com/leandrocgsi/spring-boot-rest-download-upload.git
