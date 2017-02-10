@@ -7,7 +7,7 @@
 
 # Open Source Projects Used
 
-The following Open Source projects are used in this sample app:
+The following Open Source projects are used in this sample project:
 
 * [Spring Boot](http://projects.spring.io/spring-boot/)
 * [Spring MVC](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html)
