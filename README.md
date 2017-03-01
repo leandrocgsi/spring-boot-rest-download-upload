@@ -7,17 +7,25 @@
 
 # Open Source Projects Used
 
-The following Open Source projects are used in this sample app:
+The following Open Source projects are used in this sample project:
 
 * [Spring Boot](http://projects.spring.io/spring-boot/)
 * [Spring MVC](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html)
 * [Spring Data JPA](http://projects.spring.io/spring-data-jpa/)
-* [Swagger](http://swagger.io/) see more [here](http://jakubstas.com/spring-jersey-swagger-create-documentation/) and [here](http://jakubstas.com/spring-jersey-swagger-exposing-documentation/)
-* [Jasper Reports](http://community.jaspersoft.com/)
+* [Swagger](http://swagger.io/)
 * [Open CSV](http://opencsv.sourceforge.net/)
 * [Apache POI](https://poi.apache.org/)
 * [Orika Mapper](http://orika-mapper.github.io/orika-docs/converters.html)
 * [Hibernate](http://hibernate.org/)
 * [Jackson](http://wiki.fasterxml.com/JacksonHome)
+* [Circle CI](https://circleci.com/)
 * [Travis CI](https://travis-ci.org/)
 * [Flyway](https://flywaydb.org/)
+
+# How to get this project
+
+To get this code you can execute following command or, as you prefer [download zip here](https://github.com/leandrocgsi/spring-boot-rest-download-upload/archive/master.zip) and import in your favourite IDE.
+
+```sh
+git clone https://github.com/leandrocgsi/spring-boot-rest-download-upload.git
+```
