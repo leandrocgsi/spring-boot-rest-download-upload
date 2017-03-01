@@ -3,9 +3,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>br.com.erudio</groupId>
-	<artifactId>spring-boot-log4j2-example</artifactId>
+	<artifactId>spring-boot-rest-download-upload</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring Boot Web Application</name>
+	<name>Spring Boot REST Download Upload</name>
 	<description>Spring Boot Web Application</description>
 
 	<parent>
